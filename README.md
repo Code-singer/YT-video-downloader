@@ -14,4 +14,7 @@ type in "pip install -r requirements.txt" into your terminal to install the nece
  
 *Once installation is complete, you can then run it by typing "python3 YT-video-downloader.py" into your terminal.
 
+NOTE : DO NOT INTERRUPT THE PROCESS OF DOWNLOAD ONCE AFTER CLICKING THE DOWNLOAD BUTTON
+       DOWNLOADING TAKES SOME TIME DEPENDING ON THE SIZE OF THE VIDEO SO BE PATIENT AND DO NOT INTERRUPT THE PROCESS
+
 Feel free to contribute to this project and please be sure to leave a star.
