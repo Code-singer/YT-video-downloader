@@ -11,6 +11,7 @@ How to git clone:
     
   *After cloning is complete, navigate to the location where it is saved
 type in "pip install -r requirements.txt" into your terminal to install the necessary modules (make sure Python is installed on your machine first)
- *Once installation is complete, you can then run it by typing "python3 YT-video-downloader.py" into your terminal.
+ 
+*Once installation is complete, you can then run it by typing "python3 YT-video-downloader.py" into your terminal.
 
 Feel free to contribute to this project and please be sure to leave a star.
